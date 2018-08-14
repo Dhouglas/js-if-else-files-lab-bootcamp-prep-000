@@ -1,5 +1,3 @@
-var index = index.name
-
 
 if (index.name === "Susan") {
     console.log("The name is correct")

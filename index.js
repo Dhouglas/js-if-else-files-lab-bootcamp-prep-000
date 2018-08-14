@@ -1,5 +1,4 @@
-
-let index = name
+var index = ("./index.js")
 var name = "Joe"
 var height = "74"
 
