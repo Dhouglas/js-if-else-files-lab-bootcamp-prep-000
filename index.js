@@ -1,5 +1,4 @@
-
-
+console.log(index.name)
 
 var name = "Joe"
 var height = "74"
