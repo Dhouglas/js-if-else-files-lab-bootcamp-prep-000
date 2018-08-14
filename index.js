@@ -1,4 +1,4 @@
-console.log(tests.name)
+var index = require("./tests.js")
 
 var name = "Joe"
 var height = "74"
